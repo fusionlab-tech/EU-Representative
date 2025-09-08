@@ -236,7 +236,7 @@ To apply, please contact us through our website or email.`;
             const subject = 'Application for Europe Representative Position - FusionLab';
             const body = `Dear Hiring Manager,
 
-I am writing to express my interest in the Europe/Georgia Representative position at FusionLab. I am excited about the opportunity to join your global team and contribute to building connections, supporting your remote engineering team, and conducting interviews with foreign clients.
+I am writing to express my interest in the Europe/Georgia Representative position at FusionLab. I am excited about the opportunity to join your global team and contribute to building connections while supporting your remote engineering team.
 
 Please find my application details below:
 
@@ -246,7 +246,7 @@ Location: [Your City, Country]
 Phone: [Your Phone Number]
 
 Why I'm interested in this role:
-[Brief paragraph about your interest and relevant experience, including any interview or communication skills with foreign clients]
+[Brief paragraph about your interest and relevant experience]
 
 I look forward to hearing from you and discussing how I can contribute to FusionLab's international projects.
 
